@@ -16,7 +16,7 @@
         "country": "Malawi",
         "image_url": "https://i.imgur.com/miGtBSM.jpg\n",
         "description": "Brønd etableret for at sikre rent drikkevand til landsbyen Hamitoni.",
-        "people_helped": 220,
+        "people_helped": 1,
         "date": "2024-04-09T07:00:00.000Z",
         "built_by": "Privat donor"
       }
@@ -178,26 +178,6 @@
         "description": "Projektet har forbedret dagligdagen markant.",
         "people_helped": 290,
         "date": "2024-04-17T07:00:00.000Z",
-        "built_by": "Care For Others – Generel Brønd"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          74.19,
-          32.16
-        ]
-      },
-      "properties": {
-        "village": "Chak No. 45",
-        "district": "Punjab",
-        "country": "Pakistan",
-        "image_url": "https://i.imgur.com/miGtBSM.jpg\r\n",
-        "description": "Brønd bygget for at sikre adgang til rent vand i Punjab.",
-        "people_helped": 300,
-        "date": "2024-04-18T07:00:00.000Z",
         "built_by": "Care For Others – Generel Brønd"
       }
     }
