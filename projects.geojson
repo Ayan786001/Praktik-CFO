@@ -180,6 +180,26 @@
         "date": "2024-04-17T07:00:00.000Z",
         "built_by": "Care For Others – Generel Brønd"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          12.120472
+        ]
+      },
+      "properties": {
+        "village": "",
+        "district": "",
+        "country": "",
+        "image_url": "",
+        "description": "",
+        "people_helped": 0,
+        "date": "",
+        "built_by": ""
+      }
     }
   ]
 }
