@@ -11,15 +11,15 @@
         ]
       },
       "properties": {
-        "village": "Hamitoni",
-        "district": "Thyolo",
-        "country": "Malawi",
+        "village": "",
+        "district": "",
+        "country": "",
         "image_url": "https://i.imgur.com/miGtBSM.jpg\n",
         "description": "",
         "people_helped": 200,
         "date": "2024-04-09T07:00:00.000Z",
         "built_by": "Privat donor",
-        "project_type": ""
+        "project_type": "brønd"
       }
     },
     {
@@ -32,15 +32,15 @@
         ]
       },
       "properties": {
-        "village": "Kajoni",
-        "district": "Thyolo",
-        "country": "Malawi",
+        "village": "",
+        "district": "",
+        "country": "",
         "image_url": "https://i.imgur.com/miGtBSM.jpg\n",
         "description": "",
         "people_helped": 229,
         "date": "2024-04-10T07:00:00.000Z",
         "built_by": "Care For Others – Generel Brønd",
-        "project_type": ""
+        "project_type": "brønd"
       }
     },
     {
@@ -53,15 +53,15 @@
         ]
       },
       "properties": {
-        "village": "Mussa",
-        "district": "Thyolo",
-        "country": "Malawi",
+        "village": "",
+        "district": "",
+        "country": "",
         "image_url": "https://i.imgur.com/miGtBSM.jpg\n",
         "description": "",
         "people_helped": 200,
         "date": "2024-04-11T07:00:00.000Z",
         "built_by": "Care For Others – Generel Brønd",
-        "project_type": ""
+        "project_type": "brønd"
       }
     },
     {
@@ -74,15 +74,15 @@
         ]
       },
       "properties": {
-        "village": "Nyanje PT A",
-        "district": "Machinga",
-        "country": "Malawi",
+        "village": "",
+        "district": "",
+        "country": "",
         "image_url": "https://i.imgur.com/miGtBSM.jpg\n",
         "description": "",
         "people_helped": 280,
         "date": "2024-04-12T07:00:00.000Z",
         "built_by": "Care For Others – Generel Brønd",
-        "project_type": ""
+        "project_type": "brønd"
       }
     },
     {
@@ -95,15 +95,15 @@
         ]
       },
       "properties": {
-        "village": "Helbert",
-        "district": "Machinga",
-        "country": "Malawi",
+        "village": "",
+        "district": "",
+        "country": "",
         "image_url": "https://i.imgur.com/miGtBSM.jpg\r\n",
         "description": "",
         "people_helped": 210,
         "date": "2024-04-13T07:00:00.000Z",
         "built_by": "Care For Others – Generel Brønd",
-        "project_type": ""
+        "project_type": "brønd"
       }
     },
     {
@@ -116,15 +116,15 @@
         ]
       },
       "properties": {
-        "village": "Matchepa",
-        "district": "Machinga",
-        "country": "Malawi",
+        "village": "",
+        "district": "",
+        "country": "",
         "image_url": "https://i.imgur.com/miGtBSM.jpg\r\n",
         "description": "",
         "people_helped": 230,
         "date": "2024-04-14T07:00:00.000Z",
         "built_by": "Care For Others – Generel Brønd",
-        "project_type": ""
+        "project_type": "brønd"
       }
     },
     {
@@ -137,15 +137,15 @@
         ]
       },
       "properties": {
-        "village": "Mosiya",
-        "district": "Machinga",
-        "country": "Malawi",
+        "village": "",
+        "district": "",
+        "country": "",
         "image_url": "https://i.imgur.com/miGtBSM.jpg\r\n",
         "description": "",
         "people_helped": 250,
         "date": "2024-04-15T07:00:00.000Z",
         "built_by": "Care For Others – Generel Brønd",
-        "project_type": ""
+        "project_type": "brønd"
       }
     },
     {
@@ -158,15 +158,15 @@
         ]
       },
       "properties": {
-        "village": "Jailosi",
-        "district": "Balaka",
-        "country": "Malawi",
+        "village": "",
+        "district": "",
+        "country": "",
         "image_url": "https://i.imgur.com/miGtBSM.jpg\r\n",
         "description": "",
         "people_helped": 270,
         "date": "2024-04-16T07:00:00.000Z",
         "built_by": "Care For Others – Generel Brønd",
-        "project_type": ""
+        "project_type": "brønd"
       }
     },
     {
@@ -179,15 +179,15 @@
         ]
       },
       "properties": {
-        "village": "Chimwala",
-        "district": "Machinga",
-        "country": "Malawi",
+        "village": "",
+        "district": "",
+        "country": "",
         "image_url": "https://i.imgur.com/miGtBSM.jpg\n",
         "description": "",
         "people_helped": 290,
         "date": "2024-04-17T07:00:00.000Z",
         "built_by": "Care For Others – Generel Brønd",
-        "project_type": ""
+        "project_type": "brønd"
       }
     },
     {
@@ -201,14 +201,14 @@
       },
       "properties": {
         "village": "",
-        "district": "Guéra",
-        "country": "Chad",
+        "district": "",
+        "country": "",
         "image_url": "https://i.imgur.com/ASz0F8i.jpg",
         "description": "",
         "people_helped": 0,
         "date": "",
         "built_by": "",
-        "project_type": ""
+        "project_type": "brønd"
       }
     },
     {
@@ -222,14 +222,14 @@
       },
       "properties": {
         "village": "",
-        "district": "Guéra",
-        "country": "Chad",
+        "district": "",
+        "country": "",
         "image_url": "https://i.imgur.com/BzC53L4.jpg",
         "description": "",
         "people_helped": 0,
         "date": "",
         "built_by": "",
-        "project_type": ""
+        "project_type": "brønd"
       }
     },
     {
@@ -243,14 +243,14 @@
       },
       "properties": {
         "village": "",
-        "district": "Guéra",
-        "country": "Chad",
+        "district": "",
+        "country": "",
         "image_url": "https://i.imgur.com/wrI9USY.png",
         "description": "",
         "people_helped": 0,
         "date": "",
         "built_by": "",
-        "project_type": ""
+        "project_type": "brønd"
       }
     },
     {
@@ -264,14 +264,14 @@
       },
       "properties": {
         "village": "",
-        "district": "Sialkot",
-        "country": "Pakistan",
+        "district": "",
+        "country": "",
         "image_url": "",
         "description": "",
         "people_helped": 0,
         "date": "",
         "built_by": "",
-        "project_type": ""
+        "project_type": "masjid"
       }
     },
     {
@@ -285,14 +285,14 @@
       },
       "properties": {
         "village": "",
-        "district": "Maulvibazar\r",
-        "country": "Bangladesh",
+        "district": "",
+        "country": "",
         "image_url": "",
         "description": "",
         "people_helped": 0,
         "date": "",
         "built_by": "",
-        "project_type": ""
+        "project_type": "masjid"
       }
     }
   ]
