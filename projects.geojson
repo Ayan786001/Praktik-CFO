@@ -200,26 +200,6 @@
         "date": "",
         "built_by": ""
       }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          17383247469312700,
-          9.31723821417478
-        ]
-      },
-      "properties": {
-        "village": "",
-        "district": "",
-        "country": "",
-        "image_url": "",
-        "description": "",
-        "people_helped": 0,
-        "date": "",
-        "built_by": ""
-      }
     }
   ]
 }
