@@ -220,6 +220,26 @@
         "date": "",
         "built_by": ""
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "village": "",
+        "district": "",
+        "country": "Chad",
+        "image_url": "",
+        "description": "",
+        "people_helped": 0,
+        "date": "",
+        "built_by": ""
+      }
     }
   ]
 }
