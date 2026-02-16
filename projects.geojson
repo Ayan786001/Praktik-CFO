@@ -192,8 +192,8 @@
       },
       "properties": {
         "village": "",
-        "district": "",
-        "country": "",
+        "district": "Guéra",
+        "country": "Chad",
         "image_url": "",
         "description": "",
         "people_helped": 0,
