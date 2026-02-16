@@ -227,12 +227,12 @@
         "type": "Point",
         "coordinates": [
           0,
-          0
+          9.701194
         ]
       },
       "properties": {
         "village": "",
-        "district": "",
+        "district": "Guéra",
         "country": "Chad",
         "image_url": "",
         "description": "",
