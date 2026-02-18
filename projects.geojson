@@ -6,20 +6,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          null,
-          null
+          35.02,
+          -16.36
         ]
       },
       "properties": {
         "village": "",
         "district": "",
         "country": "",
-        "image_url": "",
+        "image_url": "https://i.imgur.com/miGtBSM.jpg\n",
         "description": "",
-        "people_helped": 0,
-        "date": "",
-        "built_by": "",
-        "project_type": ""
+        "people_helped": 200,
+        "date": "2024-04-09T07:00:00.000Z",
+        "built_by": "Privat donor",
+        "project_type": "brønd"
       }
     },
     {
@@ -27,20 +27,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          null,
-          null
+          35.18,
+          -16.32
         ]
       },
       "properties": {
         "village": "",
         "district": "",
         "country": "",
-        "image_url": "",
+        "image_url": "https://i.imgur.com/miGtBSM.jpg\n",
         "description": "",
-        "people_helped": 0,
-        "date": "",
-        "built_by": "",
-        "project_type": ""
+        "people_helped": 229,
+        "date": "2024-04-10T07:00:00.000Z",
+        "built_by": "Care For Others – Generel Brønd",
+        "project_type": "brønd"
       }
     },
     {
@@ -48,20 +48,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          null,
-          null
+          35.23,
+          -16.21
         ]
       },
       "properties": {
         "village": "",
         "district": "",
         "country": "",
-        "image_url": "",
+        "image_url": "https://i.imgur.com/miGtBSM.jpg\n",
         "description": "",
-        "people_helped": 0,
-        "date": "",
-        "built_by": "",
-        "project_type": ""
+        "people_helped": 200,
+        "date": "2024-04-11T07:00:00.000Z",
+        "built_by": "Care For Others – Generel Brønd",
+        "project_type": "brønd"
       }
     },
     {
@@ -69,20 +69,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          null,
-          null
+          35.49,
+          -15.21
         ]
       },
       "properties": {
         "village": "",
         "district": "",
         "country": "",
-        "image_url": "",
+        "image_url": "https://i.imgur.com/miGtBSM.jpg\n",
         "description": "",
-        "people_helped": 0,
-        "date": "",
-        "built_by": "",
-        "project_type": ""
+        "people_helped": 280,
+        "date": "2024-04-12T07:00:00.000Z",
+        "built_by": "Care For Others – Generel Brønd",
+        "project_type": "brønd"
       }
     },
     {
@@ -90,20 +90,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          null,
-          null
+          36.02,
+          -15.24
         ]
       },
       "properties": {
         "village": "",
         "district": "",
         "country": "",
-        "image_url": "",
+        "image_url": "https://i.imgur.com/miGtBSM.jpg\r\n",
         "description": "",
-        "people_helped": 0,
-        "date": "",
-        "built_by": "",
-        "project_type": ""
+        "people_helped": 210,
+        "date": "2024-04-13T07:00:00.000Z",
+        "built_by": "Care For Others – Generel Brønd",
+        "project_type": "brønd"
       }
     },
     {
@@ -111,20 +111,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          null,
-          null
+          36.03,
+          -15.27
         ]
       },
       "properties": {
         "village": "",
         "district": "",
         "country": "",
-        "image_url": "",
+        "image_url": "https://i.imgur.com/miGtBSM.jpg\r\n",
         "description": "",
-        "people_helped": 0,
-        "date": "",
-        "built_by": "",
-        "project_type": ""
+        "people_helped": 230,
+        "date": "2024-04-14T07:00:00.000Z",
+        "built_by": "Care For Others – Generel Brønd",
+        "project_type": "brønd"
       }
     },
     {
@@ -132,20 +132,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          null,
-          null
+          36.01,
+          -15.16
         ]
       },
       "properties": {
         "village": "",
         "district": "",
         "country": "",
-        "image_url": "",
+        "image_url": "https://i.imgur.com/miGtBSM.jpg\r\n",
         "description": "",
-        "people_helped": 0,
-        "date": "",
-        "built_by": "",
-        "project_type": ""
+        "people_helped": 250,
+        "date": "2024-04-15T07:00:00.000Z",
+        "built_by": "Care For Others – Generel Brønd",
+        "project_type": "brønd"
       }
     },
     {
@@ -153,20 +153,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          null,
-          null
+          35.32,
+          -15.8
         ]
       },
       "properties": {
         "village": "",
         "district": "",
         "country": "",
-        "image_url": "",
+        "image_url": "https://i.imgur.com/miGtBSM.jpg\r\n",
         "description": "",
-        "people_helped": 0,
-        "date": "",
-        "built_by": "",
-        "project_type": ""
+        "people_helped": 270,
+        "date": "2024-04-16T07:00:00.000Z",
+        "built_by": "Care For Others – Generel Brønd",
+        "project_type": "brønd"
       }
     },
     {
@@ -174,20 +174,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          null,
-          null
+          36.05,
+          -15.19
         ]
       },
       "properties": {
         "village": "",
         "district": "",
         "country": "",
-        "image_url": "",
+        "image_url": "https://i.imgur.com/miGtBSM.jpg\n",
         "description": "",
-        "people_helped": 0,
-        "date": "",
-        "built_by": "",
-        "project_type": ""
+        "people_helped": 290,
+        "date": "2024-04-17T07:00:00.000Z",
+        "built_by": "Care For Others – Generel Brønd",
+        "project_type": "brønd"
       }
     },
     {
@@ -195,20 +195,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          null,
-          null
+          17.383247,
+          9.317238
         ]
       },
       "properties": {
         "village": "",
         "district": "",
         "country": "",
-        "image_url": "",
+        "image_url": "https://i.imgur.com/ASz0F8i.jpg",
         "description": "",
         "people_helped": 0,
         "date": "",
         "built_by": "",
-        "project_type": ""
+        "project_type": "brønd"
       }
     },
     {
@@ -216,20 +216,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          null,
-          null
+          17.418139,
+          9.383806
         ]
       },
       "properties": {
         "village": "",
         "district": "",
         "country": "",
-        "image_url": "",
+        "image_url": "https://i.imgur.com/BzC53L4.jpg",
         "description": "",
         "people_helped": 0,
         "date": "",
         "built_by": "",
-        "project_type": ""
+        "project_type": "brønd"
       }
     },
     {
@@ -237,20 +237,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          null,
-          null
+          16.735139,
+          9.701194
         ]
       },
       "properties": {
         "village": "",
         "district": "",
         "country": "",
-        "image_url": "",
+        "image_url": "https://i.imgur.com/wrI9USY.png",
         "description": "",
         "people_helped": 0,
         "date": "",
         "built_by": "",
-        "project_type": ""
+        "project_type": "brønd"
       }
     },
     {
@@ -258,8 +258,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          null,
-          null
+          74.5526953069747,
+          32.5292634264608
         ]
       },
       "properties": {
@@ -271,7 +271,7 @@
         "people_helped": 0,
         "date": "",
         "built_by": "",
-        "project_type": ""
+        "project_type": "masjid"
       }
     },
     {
@@ -279,8 +279,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          null,
-          null
+          91.7723538,
+          24.4837669
         ]
       },
       "properties": {
@@ -292,7 +292,7 @@
         "people_helped": 0,
         "date": "",
         "built_by": "",
-        "project_type": ""
+        "project_type": "masjid"
       }
     }
   ]
