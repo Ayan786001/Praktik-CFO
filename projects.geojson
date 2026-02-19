@@ -12,7 +12,7 @@
       },
       "properties": {
         "village": "Hamitoni",
-        "district": "",
+        "district": "Thyolo",
         "country": "Malawi",
         "image_url": "https://i.imgur.com/miGtBSM.jpg\n",
         "description": "",
@@ -33,7 +33,7 @@
       },
       "properties": {
         "village": "Kajoni",
-        "district": "",
+        "district": "Thyolo",
         "country": "Malawi",
         "image_url": "https://i.imgur.com/miGtBSM.jpg\n",
         "description": "",
@@ -54,7 +54,7 @@
       },
       "properties": {
         "village": "Mussa",
-        "district": "",
+        "district": "Thyolo",
         "country": "Malawi",
         "image_url": "https://i.imgur.com/miGtBSM.jpg\n",
         "description": "",
@@ -75,7 +75,7 @@
       },
       "properties": {
         "village": "Nyanje PT A",
-        "district": "",
+        "district": "Machinga",
         "country": "Malawi",
         "image_url": "https://i.imgur.com/miGtBSM.jpg\n",
         "description": "",
@@ -96,7 +96,7 @@
       },
       "properties": {
         "village": "Helbert",
-        "district": "",
+        "district": "Machinga",
         "country": "Malawi",
         "image_url": "https://i.imgur.com/miGtBSM.jpg\r\n",
         "description": "",
@@ -117,7 +117,7 @@
       },
       "properties": {
         "village": "Matchepa",
-        "district": "",
+        "district": "Machinga",
         "country": "Malawi",
         "image_url": "https://i.imgur.com/miGtBSM.jpg\r\n",
         "description": "",
@@ -138,7 +138,7 @@
       },
       "properties": {
         "village": "Mosiya",
-        "district": "",
+        "district": "Machinga",
         "country": "Malawi",
         "image_url": "https://i.imgur.com/miGtBSM.jpg\r\n",
         "description": "",
@@ -159,7 +159,7 @@
       },
       "properties": {
         "village": "Jailosi",
-        "district": "",
+        "district": "Balaka",
         "country": "Malawi",
         "image_url": "https://i.imgur.com/miGtBSM.jpg\r\n",
         "description": "",
@@ -180,7 +180,7 @@
       },
       "properties": {
         "village": "Chimwala",
-        "district": "",
+        "district": "Machinga",
         "country": "Malawi",
         "image_url": "https://i.imgur.com/miGtBSM.jpg\n",
         "description": "",
@@ -201,7 +201,7 @@
       },
       "properties": {
         "village": "",
-        "district": "",
+        "district": "Guéra",
         "country": "Chad",
         "image_url": "https://i.imgur.com/ASz0F8i.jpg",
         "description": "",
@@ -222,7 +222,7 @@
       },
       "properties": {
         "village": "",
-        "district": "",
+        "district": "Guéra",
         "country": "Chad",
         "image_url": "https://i.imgur.com/BzC53L4.jpg",
         "description": "",
@@ -243,7 +243,7 @@
       },
       "properties": {
         "village": "",
-        "district": "",
+        "district": "Guéra",
         "country": "Chad",
         "image_url": "https://i.imgur.com/wrI9USY.png",
         "description": "",
@@ -264,7 +264,7 @@
       },
       "properties": {
         "village": "",
-        "district": "",
+        "district": "Sialkot",
         "country": "Pakistan",
         "image_url": "",
         "description": "",
@@ -285,7 +285,7 @@
       },
       "properties": {
         "village": "",
-        "district": "",
+        "district": "Maulvibazar\r",
         "country": "Bangladesh",
         "image_url": "",
         "description": "",
