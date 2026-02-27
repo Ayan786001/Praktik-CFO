@@ -300,7 +300,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          20.634,
+          0,
           0
         ]
       },
@@ -322,7 +322,7 @@
         "type": "Point",
         "coordinates": [
           0,
-          16.86594
+          0
         ]
       },
       "properties": {
